@@ -4,7 +4,7 @@
  
 - 👾 Acabei de começar a programar
 - 🔥 Atualmente eu estou aprendendo C#
-- 🌈 Tenho 18 e me identifico como __ele/dele__
+- 🌈 Tenho 18 e me identifico como: **ELE/DELE**
 - 📌 Brasileiro 
 - ❤️ 🧡 💛 💚 💙 💜 __Bi__
 
