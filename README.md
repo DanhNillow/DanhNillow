@@ -29,7 +29,6 @@ src="https://cdn.discordapp.com/attachments/519907759358214144/93385079154921881
  <a href="https://discord.gg/ryUEFhmxsa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:danillopontesalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
- 
   ![Snake animation](https://github.com/DanhNillow/DanhNillow/blob/output/github-contribution-grid-snake.svg)
  
-  </div>
+ </div>
